@@ -1,0 +1,16 @@
+ID,Name,Base Stat,Attack,Health,Power Level,Stamina
+1,Pikachu,50,55,33,95,25
+2,Charizard,80,88,53,144,40
+3,Bulbasaur,45,50,27,81,22
+4,Squirtle,44,49,26,79,22
+5,Mewtwo,100,110,66,180,50
+6,Eevee,55,60,36,99,28
+7,Jolteon,65,71,43,117,33
+8,Snorlax,160,176,106,288,80
+9,Dragonite,134,148,89,241,67
+10,Gengar,65,71,43,117,33
+11,Lapras,130,143,86,234,65
+12,Vaporeon,65,71,43,117,33
+13,Machamp,90,99,60,162,45
+14,Alakazam,50,55,33,90,25
+15,Arcanine,110,121,73,199,55
