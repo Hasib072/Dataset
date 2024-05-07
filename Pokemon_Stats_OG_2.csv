@@ -1,0 +1,16 @@
+ID,Name,Type,Base_Stat,Attack,Health,Power_Level,Stamina
+1,Pikachu,Electric,50,55,33,95,25
+2,Charizard,Fire/Flying,80,88,53,144,40
+3,Bulbasaur,Grass/Poison,45,50,27,81,22
+4,Squirtle,Water,44,49,26,79,22
+5,Mewtwo,Psychic,100,110,66,180,50
+6,Eevee,Normal,55,60,36,99,28
+7,Jolteon,Electric,65,71,43,117,33
+8,Snorlax,Normal,160,176,106,288,80
+9,Dragonite,Dragon/Flying,134,148,89,241,67
+10,Gengar,Ghost/Poison,65,71,43,117,33
+11,Lapras,Water/Ice,130,143,86,234,65
+12,Vaporeon,Water,65,71,43,117,33
+13,Machamp,Fighting,90,99,60,162,45
+14,Alakazam,Psychic,50,55,33,90,25
+15,Arcanine,Fire,110,121,73,199,55
