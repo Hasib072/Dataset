@@ -1,4 +1,4 @@
-ID,Name,Base Stat,Attack,Health,Power Level,Stamina
+ID,Name,Base_Stat,Attack,Health,Power_Level,Stamina
 1,Pikachu,50,55,33,95,25
 2,Charizard,80,88,53,144,40
 3,Bulbasaur,45,50,27,81,22
